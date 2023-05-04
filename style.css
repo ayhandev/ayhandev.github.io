@@ -3,5 +3,12 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    
+}
+
+.bg2 {
+    background-color: #1B2121;
+}
+
+.bg3 {
+    background-color: #323232;
 }
