@@ -12,3 +12,11 @@
 .bg3 {
     background-color: #323232;
 }
+
+.bg4 {
+    background: linear-gradient(to bottom, #1e2326 0%, #738182 100%);
+}
+
+.bg5 {
+    background: linear-gradient(to bottom, #738182 0%, #738182 100%);
+}
