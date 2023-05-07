@@ -20,3 +20,7 @@
 .bg5 {
     background: linear-gradient(to bottom, #738182 0%, #738182 100%);
 }
+
+.font {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
